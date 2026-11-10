@@ -1,0 +1,25 @@
+Pt. Age
+BV_Score
+log10_F. vaginae
+log10_G. vaginalis
+log10_BVAB-2
+log10_Megasphaera sp.Type 1
+log10_Megasphaera sp. Type 2
+log10_L. iners
+log10_L. gasseri
+log10_L. jensenii
+log10_L. crispatus
+log10_Total_Lacto
+log10_Total_BV_Pathogens
+L_crispatus_to_L_iners_Ratio
+Lacto_to_Pathogen_Ratio
+rel_L. crispatus
+rel_L. iners
+rel_L. gasseri
+rel_L. jensenii
+rel_F. vaginae
+rel_G. vaginalis
+rel_BVAB-2
+rel_Megasphaera sp.Type 1
+rel_Total_Lacto
+rel_Total_BV_Pathogens
